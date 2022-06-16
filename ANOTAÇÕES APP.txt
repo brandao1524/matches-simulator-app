@@ -1,0 +1,7 @@
+    nome da instituição Dio
+    nome do autor; Brandão silva
+    título : teste simulador app
+    subtítulo, se houver, separar por dois pontos (:);
+    número de volumes (se houver mais de um, deve constar em cada capa a especificação do respectivo volume);
+    local (cidade) da instituição onde deve ser apresentado;
+    ano de depósito (da entrega).
